@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Toan Xuan Nguyen
 
-### 🖥️ Systems Administrator | IT Support | Cloud & Infrastructure
+### 🖥️ IT Support L2 (Work Placement) | Systems Administrator | Microsoft 365 | Cloud & Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Toan%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toan-nguyen-it-oz/)
 [![GitHub](https://img.shields.io/badge/GitHub-toannguyenitoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toannguyenitoz)
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 ```text
-🏢  Currently   : Remote Desktop Support L2 @ DXC Technology, Adelaide
+🏢  Currently   : IT Support L2 Work Placement @ DXC Technology, Adelaide
 🎓  Studying    : Certificate IV in IT (Systems Administration) @ TAFE SA
 🏅  Achievement : 🥈 Silver Medal – Cloud Computing, WorldSkills Australia SA 2026
 🌏  Based in    : Adelaide, South Australia
@@ -25,7 +25,7 @@
 
 Hands-on **Systems Administrator** and **ICT Support Professional** with **20+ years of enterprise technology experience** across Windows infrastructure, Active Directory, Microsoft 365, endpoint support, and business-critical IT services.
 
-Currently building **Australian IT operations experience** through Level 2 Remote Desktop Support at DXC Technology — working with **Microsoft Intune**, **Active Directory**, and **ServiceNow** in an enterprise environment.
+Currently building **Australian IT operations experience** through an IT Support L2 work placement at DXC Technology — working with **Microsoft Intune**, **Active Directory**, and **ServiceNow** in an enterprise environment.
 
 ---
 
@@ -76,7 +76,7 @@ Currently building **Australian IT operations experience** through Level 2 Remot
 
 ## 💼 Professional Experience
 
-### 🇦🇺 DXC Technology — *Remote Desktop Support L2*
+### 🇦🇺 DXC Technology — *IT Support L2 (Work Placement)*
 **Adelaide, South Australia | Jul 2026 – Present**
 
 - 🖥️ Provide **Level 2 remote desktop support** in enterprise environment, troubleshooting Windows endpoints, user-access, and software issues
