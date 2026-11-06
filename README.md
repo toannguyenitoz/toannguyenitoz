@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Toan Xuan Nguyen
 
-### 🖥️ IT Support L2 (Work Placement) | Systems Administrator | Microsoft 365 | Cloud & Infrastructure
+### 🖥️ IT Network Systems Administrator | Cloud & Modern Infrastructure Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Toan%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toan-nguyen-it-oz/)
 [![GitHub](https://img.shields.io/badge/GitHub-toannguyenitoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toannguyenitoz)
@@ -18,9 +18,11 @@
 ```text
 🏢  Currently   : IT Support L2 Work Placement @ DXC Technology, Adelaide
 🎓  Studying    : Certificate IV in IT (Systems Administration) @ TAFE SA
-🏅  Achievement : 🥈 Silver Medal – Cloud Computing, WorldSkills Australia SA 2026
+🥇  Honor       : "Gold Medal – IT Networking" (WorldSkills Australia SA 2026) • IT Network Systems Administration
+🥈  Honor       : Silver Medal – Cloud Computing, WorldSkills Australia SA 2026
 🌏  Based in    : Adelaide, South Australia
 💬  Languages   : English & Vietnamese
+🌐  Website     : https://toannguyenitoz.github.io
 ```
 
 Hands-on **Systems Administrator** and **ICT Support Professional** with **20+ years of enterprise technology experience** across Windows infrastructure, Active Directory, Microsoft 365, endpoint support, and business-critical IT services.
@@ -33,8 +35,9 @@ Currently building **Australian IT operations experience** through an IT Support
 
 <div align="center">
 
+[![WorldSkills Gold Medal](https://img.shields.io/badge/🥇_WorldSkills_Australia-Gold_Medal_–_IT_Networking_SA_2026-FFD700?style=for-the-badge)](https://www.worldskills.org.au/)
+[![WorldSkills Silver Medal](https://img.shields.io/badge/🥈_WorldSkills_Australia-Cloud_Computing_SA_2026-C0C0C0?style=for-the-badge)](https://www.worldskills.org.au/)
 [![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-[![WorldSkills](https://img.shields.io/badge/🥈_WorldSkills_Australia-Cloud_Computing_SA_2026-FFD700?style=for-the-badge)](https://www.worldskills.org.au/)
 [![IBM AI](https://img.shields.io/badge/IBM-AI_Engineering_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
 [![IBM Data Science](https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
 
@@ -117,13 +120,14 @@ Currently building **Australian IT operations experience** through an IT Support
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Honors
 
-| Qualification | Institution | Year |
+| Qualification / Honor | Institution | Year |
 | :--- | :--- | :---: |
+| 🥇 "Gold Medal – IT Networking" (WorldSkills SA 2026) | WorldSkills Australia (IT Network Systems Administration) | 2026 |
+| 🥈 Silver Medal – Cloud Computing (WorldSkills SA 2026) | WorldSkills Australia | 2026 |
 | 📋 Certificate IV in IT (Systems Administration) | TAFE SA, Adelaide | *In Progress 2026* |
 | ☁️ Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2026 |
-| 🥈 Silver Medal – Cloud Computing (WorldSkills SA) | WorldSkills Australia | 2026 |
 | 🤖 IBM AI Engineering Professional Certificate | IBM | Completed |
 | 📊 IBM Data Science Professional Certificate | IBM | Completed |
 | 📖 Master of Business Administration | CFVG, Hanoi | 2013 |
