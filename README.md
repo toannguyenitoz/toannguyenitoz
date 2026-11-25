@@ -89,8 +89,8 @@ Currently building **Australian IT operations experience** through an IT Support
 
 ---
 
-### 🏦 BIDV Digital Banking Centre — *Team Leader, Technology Operations*
-**Hanoi, Vietnam (Remote from Adelaide Aug 2023) | Mar 2019 – Aug 2025**
+### 🏦 BIDV Digital Banking Centre — *Technology Operations, Systems Support & Data Analytics Team Leader*
+**Hanoi, Vietnam (Remote from Adelaide Aug 2023) | Sep 2018 – Sep 2025**
 
 - 👥 Led technology operations, systems support, BI reporting, and automation for a **500-staff contact centre**
 - 🔍 Coordinated **Tier 2/3 support** for digital banking, ERP, and reporting platforms
@@ -100,7 +100,7 @@ Currently building **Australian IT operations experience** through an IT Support
 ---
 
 ### 🏦 BIDV — *IT Administrator | Lead BI & MIS | IT System Administrator | Software Engineer*
-**Hanoi, Vietnam | Aug 2001 – Mar 2019**
+**Hanoi, Vietnam | Aug 2001 – Sep 2018**
 
 - 🖥️ Administered Windows desktop & server environments supporting **500+ users**
 - 🌐 Configured DNS, DHCP, network connectivity, endpoint software, and business applications
